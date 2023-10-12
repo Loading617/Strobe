@@ -1,2 +1,2 @@
 # Strobe
-Android TV / Google TV Browser
+Android TV / Google TV Browser with Ruffle enabled
