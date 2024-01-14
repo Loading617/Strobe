@@ -1,2 +1,2 @@
 # Strobe
-### Strobe is as Web Browser for Google TV
+### Strobe: For Android/Google TV/Fire TV
