@@ -1,2 +1,2 @@
 # Strobe
-### Strobe: For Android/Google TV/Fire TV
+Strobe: For Android/Google TV/Fire TV
